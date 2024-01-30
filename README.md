@@ -1,4 +1,7 @@
+# How to run
 To run the project, add it to QualNet Software and verify results
+  
+ # Project Description 
   Network Architecture:
         The project involves multiple subnetworks, each with 5 nodes operating on the same channel.
         Routers act as intermediaries between subnetworks and can listen to two channels.
